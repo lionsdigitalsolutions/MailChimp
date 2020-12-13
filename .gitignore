@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+
+/bin
+/lib
+/src/account/__pycache__
+/src/account/migrations
+/src/mailchimp/__pycache__
+/src/marketing/__pycache__
+/src/marketing/migrations
+
